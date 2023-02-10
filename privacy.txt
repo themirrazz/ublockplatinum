@@ -77,3 +77,30 @@ demdex.net
 # Sentry.io
 oingest*.sentry.io
 sentry.io$third-party
+
+# DoubleVerify
+doubleverify.com$third-party
+
+# GoMpulse
+go-mpulse.net
+
+# Lotame
+crwdcntrl.net
+
+# OneTrust
+geolocation.onetrust.com
+
+# Sophi
+sophi.io$third-party
+
+# Rubicon Project
+rubiconproject.com
+
+# OpenTable
+track.opentable.*
+
+# Sorry Google, no account sign-in!
+accounts.google.com$third-party,domain=~*.google.com|goo.gl|goo.gle|forms.gle|docs.gle|google.org|youtube.com|studio.youtube.com|www.youtube.com
+
+# Amazon
+amazon-adsystem.com
