@@ -18,6 +18,7 @@ googletagmanager.com
 googleoptimize.com
 googlesyndication.com
 doubleclick.net
+googleadservices.com
 
 # Only use YouTube no-cookie
 youtube.com$third-party
@@ -47,6 +48,7 @@ analytics.tiktok.com
 
 # Linkedin
 ads.*.linkedin.com
+bizographics.com
 
 # Microsoft
 data.microsoft.com
@@ -70,6 +72,8 @@ everesttech.net
 # Adobe
 omtrdc.net
 adobedtm.com
+marketo.net
+bizible.com
 
 # Demdex
 demdex.net
@@ -77,6 +81,7 @@ demdex.net
 # Sentry.io
 oingest*.sentry.io
 sentry.io$third-party
+sentry-cdn.com
 
 # DoubleVerify
 doubleverify.com$third-party
@@ -104,3 +109,64 @@ accounts.google.com$third-party,domain=~*.google.com|goo.gl|goo.gle|forms.gle|do
 
 # Amazon
 amazon-adsystem.com
+
+# HubSpot
+hsadspixel.net
+hs-banner.com
+hs-analytics.com
+forms-na1.hsforms.com
+
+# Wistia
+pipedream.wistia.com
+distillery.wistia.com
+
+# Wordpress
+stats.wp.com
+
+# Windows96 / sys36
+sys36.net/*/stats.*
+
+# Twitter
+syndication.twitter.com
+analytics.twitter.com
+platform.twitter.com$third-party
+ads-twitter.com
+
+# Vercel Insights
+vercel-insights.com
+
+# Osano
+tattle.api.osano.com
+
+# LLTRCK
+lltrck.com
+
+# StackExchange
+meta.stackexchange.com
+
+# DuckDuckGo
+improving.duckduckgo.com
+
+# Gravatar
+gravatar.com$third-party
+
+# Drift
+flow.api.drift.com
+events.api.drift.com
+metrics.api.drift.com
+presence.api.drift.com
+targeting.api.drift.com
+
+# G2Crowd
+tracking.g2crowd.com
+
+# Hotjar
+hotjar.com
+
+# 6sc
+6sc.co
+
+# Tealium
+tealiumiq.com
+tags.tiqcdn.com
+
