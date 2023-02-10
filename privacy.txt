@@ -269,6 +269,8 @@ micpn.com$third-party
 mvt.usaa.com
 l.usaa.com
 gb.usaa360.com
+da.usaa.com
+tags.usaa.com
 
 # Agkn
 agkn.com
@@ -285,3 +287,73 @@ rlcdn.com
 # Yimg
 s.yimg.com
 
+# Paypal
+t.paypal.com
+
+# Qualitrics
+qualitrics.com
+
+# Optimizely
+optimizely.com
+
+# State Farm
+smetrics.statefarm.com
+
+# Userzoom
+userzoom.com
+
+# AppDynamics
+appdynamics.com
+
+# Segment
+segment.com
+
+# MSN
+c.msn.com
+data.msn.com
+
+# Cloudflare Insights
+cloudflareinsights.com
+
+# GoDaddy
+api.aws.parking.godaddy.com
+
+# Apple
+securemetrics.apple.com
+supportmetrics.apple.com
+
+# IPInfoDB
+ipinfodb.com
+
+# Verizon
+sanalytics.verizon.com
+
+# ContentSquare
+contentsquare.net
+
+# Dotomi
+dotomi.com
+
+# Evolv.ai
+participants.evolv.ai
+
+# Pinterest
+s.pinimg.com
+
+# Adserver
+adsrvr.org
+
+# Adroll
+adroll.com
+
+# Invoid
+innovid.com
+
+# Invoca
+invocacdn.com
+
+# Licdn
+licdn.com
+
+# XG4ken
+xg4ken.com
