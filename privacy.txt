@@ -235,3 +235,53 @@ sw88.espn.com
 pinpoint.espn.com
 log.go.com
 secure.espncdn.com
+
+# Crowdtwist
+crowdtwist.com
+broadband.espn.com
+
+# Chartbeat
+static.chartbeat.com
+
+# bkrtx
+bkrtx.com
+
+# BlueKAI
+bluekai.com
+
+# Also adobe
+a2.adform.net
+
+# Brightcove Player
+metrics.brightcove.com
+
+# Also Google
+imasdk.googleapis.com
+googletagservices.com
+
+# Newrelic
+newrelic.com
+
+# micpn.com
+micpn.com$third-party
+
+# USAA
+mvt.usaa.com
+l.usaa.com
+gb.usaa360.com
+
+# Agkn
+agkn.com
+
+# ispotTV
+ispot.tv
+
+# ScStatic
+sc-static.net
+
+# rlcdn
+rlcdn.com
+
+# Yimg
+s.yimg.com
+
