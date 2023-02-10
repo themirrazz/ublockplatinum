@@ -28,6 +28,7 @@ m.stripe.network
 
 # Github
 github.com||api.github.com
+collector.github.com
 
 # New York Times
 meter-svc.nytimes.com
@@ -52,10 +53,14 @@ bizographics.com
 
 # Microsoft
 data.microsoft.com
+aria.microsoft.com
+c1.microsoft.com
 bat.bing.com
 fpt.microsoft.com
 target.microsoft.com
 js.monitor.azure.com
+msecnd.net
+clarity.ms
 
 # Pendo
 pendo.io$third-party
@@ -170,3 +175,63 @@ hotjar.com
 tealiumiq.com
 tags.tiqcdn.com
 
+# DuckDuckGo
+duckduckgo.com
+
+# BugSnag
+sessions.bugsnag.com
+
+# Amplitude
+cdn.amplitude.com
+
+# ActiveCampaign
+app-us1.com
+
+# Criteo
+criteo.net
+
+# 3gl
+3gl.net
+
+# indexWWW
+indexww.com
+
+# Permutive
+permutive.app
+
+# WebContentAssesor
+webcontentassessor.com
+
+# BrandMetrics
+brandmetrics.com
+
+# Zeus Technology
+zeustechnology.com
+
+# Washington Post
+subscribe.washingtonpost.com
+
+# Kroger
+sstats.kroger.com
+
+# Techlab CDN
+p11.techlab-cdn.com
+
+# Walmart
+drfdisvc.walmart.com
+
+# Target
+taglocker.target.com
+sapphire-api.target.com
+carts.target.com
+
+# Kampyle
+kampyle.com
+
+# Disney
+sanalytics.disneyplus.com
+a.espncdn.com
+sw88.espn.com
+pinpoint.espn.com
+log.go.com
+secure.espncdn.com
