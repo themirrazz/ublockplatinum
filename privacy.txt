@@ -1,0 +1,79 @@
+#          Warning         #
+# May break some websites. #
+
+# Google's tracking
+google.com/*/log?
+google.org/*/log?
+goo.gl/*/log?
+goo.gle/*/log?
+domains.google/*/log?
+docs.gle/*/log?
+forms.google/*/log?
+gstatic.com/*/log?
+google.com/*/autocomplete/*
+
+# Google Analytics/embed trackers/ads
+google-analytics.com
+googletagmanager.com
+googleoptimize.com
+googlesyndication.com
+doubleclick.net
+
+# Only use YouTube no-cookie
+youtube.com$third-party
+
+# Stripe
+m.stripe.network
+
+# Github
+github.com||api.github.com
+
+# New York Times
+meter-svc.nytimes.com
+als-svc.nytimes.com
+a.et.nytimes.com
+purr.nytimes.com
+mwcm.nytimes.com
+samizdat-graphql.nytimes.com
+a.nytimes.com
+
+# Facebook/Meta
+fbthirdpartypixel.com
+facebook.com$third-party
+instagram.com$third-party
+
+# TikTok
+analytics.tiktok.com
+
+# Linkedin
+ads.*.linkedin.com
+
+# Microsoft
+data.microsoft.com
+bat.bing.com
+fpt.microsoft.com
+target.microsoft.com
+js.monitor.azure.com
+
+# Pendo
+pendo.io$third-party
+
+# ImpactRadius
+impactradius-event.com
+
+# Clicktale
+clicktale.com
+
+# Everesttech
+everesttech.net
+
+# Adobe
+omtrdc.net
+adobedtm.com
+
+# Demdex
+demdex.net
+
+# Sentry.io
+oingest*.sentry.io
+sentry.io$third-party
